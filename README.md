@@ -1,5 +1,5 @@
-### 👋 Hello World, I’m Sara !
-### Welcome to my profile!
+### <p align="center">👋 Hello World, I’m Sara ! </p>
+###  <p align="center"> Welcome to my profile! </p>
 
 I recently finished the 14-week <Academia de Código_> bootcamp and I'm ready to take on new challenges as a FullStack Developer.
 
