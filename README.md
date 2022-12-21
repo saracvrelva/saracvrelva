@@ -1,5 +1,7 @@
-### 👋 Hi there, I’m Sara !
+### 👋 Hello World, I’m Sara !
 ### Welcome to my profile!
+
+I recently finished the 14-week <Academia de Código_> bootcamp and I'm ready to take on new challenges as a FullStack Developer.
 
 - 👀 I've been learning Java && JavaScript;
 - 🌱 I’m currently learning Ruby;
